@@ -1,6 +1,8 @@
+---
 layout: page
-title: "Segelwetter Pfäffikon (SZ)
+title: "Segelwetter Pfäffikon (SZ)"
 permalink: /sail_ZH-pf
+---
 
 <html>
   <script src="https://www.windfinder.com/widget/forecast/js/freienbach_ara-hoefe?unit_wave=m&unit_rain=mm&unit_temperature=c&unit_wind=kts&unit_pressure=hPa&days=3&show_day=1&show_waves=0"></script>
