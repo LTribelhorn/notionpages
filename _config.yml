@@ -1,3 +1,5 @@
+url: "https://ltribelhorn.github.io"
+baseurl: "/notionpages"
 plugins:
   - jekyll-relative-links
 relative_links:
