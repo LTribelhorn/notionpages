@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Segelwetter Pfäffikon (SZ)"
-permalink: /sail_ZH-pf
+permalink: /sail_ZH-pf/
 ---
 
 <html>
