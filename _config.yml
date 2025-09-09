@@ -1,6 +1,6 @@
 url: "https://ltribelhorn.github.io"
 baseurl: "/notionpages"
-theme: jekyll-theme-minimal
+theme: ltribe_default
 plugins:
   - jekyll-relative-links
 relative_links:
