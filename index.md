@@ -1,6 +1,6 @@
 ---
 title: Notion Widgets for Private Use
-layout: ltribe_default.html
+layout: ltribe_default
 filename: index.md
 ---
 
