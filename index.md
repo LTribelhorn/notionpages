@@ -7,6 +7,7 @@ filename: index.md
 # Available Widgets
 
 - [Segelwetter Pfäffikon (ZH)](/sail_ZH-pf/)
+- [Weather Cargèse (Corsica)](/weather-cargese/)
 
 
 **Disclaimer:**
