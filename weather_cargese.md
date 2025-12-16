@@ -5,5 +5,5 @@ permalink: /weather_cargese/
 ---
 
 <html>
-  <iframe src="https://kachelmannwetter.com/widget/standard/3028606" width="380" height="150" scrolling="no" marginheight="0" frameborder="no"></iframe>
+  <iframe id="widget_autocomplete_preview"  width="150" height="300" frameborder="0" src="https://meteofrance.com/widget/prevision/200650##3D6AA2" title="Prévisions Cargèse par Météo-France"> </iframe>
 </html>
