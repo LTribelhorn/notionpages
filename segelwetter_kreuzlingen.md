@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Segelwetter Kreuzlingen (TG)"
-permalink: /sail_TG_krz/
+permalink: /sail_TG-krz/
 ---
 
 <html>
