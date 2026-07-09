@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Segelwetter Steckborn (TG)"
-permalink: /sail_TG_stkb/
+permalink: /sail_TG-stkb/
 ---
 
 <html>
