@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Segelwetter Mühlehorn (SG)"
-permalink: /sail_SG_mueh/
+permalink: /sail_SG-mueh/
 ---
 
 <html>
